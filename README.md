@@ -1,6 +1,6 @@
 # 101390844_comp3123_labtest2
 This is lab test 2 for comp3123  
-This React weather application is a very handy tool! By selecting specific day, it provides detailed information about the weather for th selected day and the changes expected throughout that day. This allows users to see the current weather conditions and anticipate any fluctuations in the upcoming hours.  
+This React weather application is a very handy tool! By selecting specific day, it provides detailed information about the weather for the selected day and the changes expected throughout that day. This allows users to see the weather conditions for the coming 5 days and anticipate any fluctuations in the upcoming hours.  
 authored by Josefin Abdulaziz 101390844
 
 <img width="1280" alt="5" src="https://github.com/JosephineAbdulaziz/101390844_comp3123_labtest2/assets/123840261/a29d6173-b6c6-43b8-aaf7-efaca6a108dc">
